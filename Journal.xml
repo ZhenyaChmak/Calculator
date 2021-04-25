@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUsers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Users>
+    <RecordingDate>27.03.2020 21:36:47</RecordingDate>
+    <Expression>5*9+6^9-6*9</Expression>
+    <Answer>10077687</Answer>
+  </Users>
+  <Users>
+    <RecordingDate>27.03.2020 21:37:15</RecordingDate>
+    <Expression>8/9</Expression>
+    <Answer>0,888888888888889</Answer>
+  </Users>
+  <Users>
+    <RecordingDate>27.03.2020 21:37:26</RecordingDate>
+    <Expression>558*6</Expression>
+    <Answer>3348</Answer>
+  </Users>
+  <Users>
+    <RecordingDate>27.03.2020 21:38:41</RecordingDate>
+    <Expression>99/99-6+99*6</Expression>
+    <Answer>589</Answer>
+  </Users>
+</ArrayOfUsers>
